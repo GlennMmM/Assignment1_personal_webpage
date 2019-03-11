@@ -1,0 +1,64 @@
+body{
+   margin: 0;
+}
+header{
+    height: 25vh;
+    background-image: url("../images/blossom-clouds-dark-977304.jpg");
+    background-size: 200vh;
+    text-align: right;
+}
+
+
+#linksp{
+    float: right;
+}
+
+nav{
+    height: 64px;
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+    line-height: 30px;
+}
+
+section{
+    height: 65vh;
+    /* background-color: blue; */
+    /* display: flex; */
+    text-align: center;
+}
+
+footer{
+    background-image: url("../images/blossom-clouds-dark-977304.jpg");
+    height: 12vh;
+    text-align: center;
+}
+
+#logo{
+    width: 100px;
+    
+}
+
+#me{
+    height:128px;
+    width: 94px;
+    border: 2px solid gray;
+    margin: 10px;
+    border-radius: 25%;
+}
+#imgs{
+    padding: 10px;
+}
+#pics{
+    margin: auto;  
+    width: 500px;
+    display: flex;
+}
+#img{
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 40%;
+}
+#mainl{
+    display: flex;
+}
